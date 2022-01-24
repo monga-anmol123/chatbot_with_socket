@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/monga-anmol123/chatbot_with_socket/issues"
   },
-  "homepage": "https://github.com/monga-anmol123/chatbot_with_socket#readme"
+  "homepage": "https://github.com/monga-anmol123/chatbot_with_socket#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
 }
